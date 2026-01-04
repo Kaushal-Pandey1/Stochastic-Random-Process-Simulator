@@ -1,0 +1,4 @@
+virtual_envo/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
